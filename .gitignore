@@ -1,0 +1,11 @@
+**__pycache__
+.vscode
+/env
+*.db-journal
+
+/.env
+
+/base.db
+
+
+/test.py
